@@ -1,2 +1,4 @@
 # hello-world
-Kicking it off by RTFM
+# Kicking it off by RTFM
+# I'm into Python and R primarily but will play with almost anything as a learning excercise.
+# I'm in Bangkok, Thailand for work and had a few moments so decided I'd get going on GitHub.
